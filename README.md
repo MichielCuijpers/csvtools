@@ -2,6 +2,8 @@
 [![Build Status](https://travis-ci.org/DavyLandman/csvtools.svg?branch=master)](https://travis-ci.org/DavyLandman/csvtools)
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/5024.svg)](https://scan.coverity.com/projects/5024)
 [![codecov.io](https://codecov.io/github/DavyLandman/csvtools/coverage.svg?branch=master)](https://codecov.io/github/DavyLandman/csvtools?branch=master)
+[![BCH compliance](https://bettercodehub.com/edge/badge/MichielCuijpers/csvtools)](https://bettercodehub.com)
+
 
 
 As our data gets bigger, CSV files grow in size.
